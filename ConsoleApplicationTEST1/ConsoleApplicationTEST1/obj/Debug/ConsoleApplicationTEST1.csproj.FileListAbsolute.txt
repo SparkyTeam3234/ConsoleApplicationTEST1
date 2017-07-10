@@ -1,0 +1,5 @@
+c:\users\sparky\documents\visual studio 2015\Projects\ConsoleApplicationTEST1\ConsoleApplicationTEST1\bin\Debug\ConsoleApplicationTEST1.exe.config
+c:\users\sparky\documents\visual studio 2015\Projects\ConsoleApplicationTEST1\ConsoleApplicationTEST1\bin\Debug\ConsoleApplicationTEST1.exe
+c:\users\sparky\documents\visual studio 2015\Projects\ConsoleApplicationTEST1\ConsoleApplicationTEST1\bin\Debug\ConsoleApplicationTEST1.pdb
+c:\users\sparky\documents\visual studio 2015\Projects\ConsoleApplicationTEST1\ConsoleApplicationTEST1\obj\Debug\ConsoleApplicationTEST1.exe
+c:\users\sparky\documents\visual studio 2015\Projects\ConsoleApplicationTEST1\ConsoleApplicationTEST1\obj\Debug\ConsoleApplicationTEST1.pdb
